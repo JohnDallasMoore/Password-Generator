@@ -98,7 +98,12 @@ function generatePassword() {
 
   function askUser() {
     var len = prompt("How many characters in your password?");
+    if (isNaN(len) || len < 8 || len > 128) {
+      alert("Input must be a number between 8-128.");
+      return askUser();
+    } else {
     return len;
+    }
   }
   if (numChars > 7 && numChars < 128) {
     confirm(
