@@ -1,11 +1,11 @@
-# Challenge-3
+# Password Generator
 
 ## Description
 This is a JavaScript based program that generates a random password based on user preferences. The program allows the user to choose the length of the password (between 8 and 128 characters) and which types of characters to include (lowercase letters, uppercase letters, numbers, and/or special characters). Once the user has made their selections, the program generates a password using the selected characters and the chosen length. The password is then displayed in a text box on the page.
 
-![challenge-3-demo](https://user-images.githubusercontent.com/121253666/230511994-f1679340-1dbd-43a1-aac1-9ee660a2fe79.png)
+![Password-Generator-demo](https://user-images.githubusercontent.com/121253666/230511994-f1679340-1dbd-43a1-aac1-9ee660a2fe79.png)
 
-[Link to Deployment](https://johndallasmoore.github.io/challenge-3/)
+[Link to Deployment](https://johndallasmoore.github.io/Password-Generator/)
 
 ## Installation
 N/a
